@@ -10,7 +10,7 @@ Y los alumnos podran filtrar que inasistencias desean ver, segun el turno al que
 Tecnologias usadas: gestor de base de datos (Mysql) y Neats Beans 
 
 Que se precisa para probarlo: para poder probar adecuadamente la aplicacion, se precisa tener instalado Neat beans, el conector de base de datos, Xammp (para poder iniciar
-la base de datos mysql) y los archivos .zip y .sql de nuestro programa. En cuanto a ram se precisa tener..
+la base de datos mysql) y los archivos .zip y .sql de nuestro programa. En cuanto a ram se precisa tener como minimo  4 GB de RAM
 
 Autores: Nahuel Olazarri: Backend
 Nahiara Gómez: Frontend y backend
